@@ -38,6 +38,8 @@ apis:
       - Delivery
       - OAM
 common:
+  - type: DomainSecurity
+    url: security/kubevela-domain-security.yml
   - type: Documentation
     name: KubeVela Documentation
     description: Official KubeVela documentation.
@@ -46,6 +48,8 @@ common:
     name: KubeVela GitHub
     description: Source code repository.
     url: https://github.com/kubevela/kubevela
+  - url: https://kubevela.io/blog/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
