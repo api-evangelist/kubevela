@@ -8,7 +8,19 @@ description: >-
   components, traits, and policies. KubeVela supports workflow-based
   delivery pipelines and multi-cluster deployment.
 url: https://kubevela.io
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/kubevela.png
 tags:
   - Application Delivery
   - Cloud Native
