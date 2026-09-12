@@ -68,6 +68,8 @@ apis:
       - Delivery
       - OAM
 common:
+  - type: Website
+    url: https://www.kubevela.io/
   - type: DomainSecurity
     url: security/kubevela-domain-security.yml
   - type: Documentation
